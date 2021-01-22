@@ -1,0 +1,25 @@
+.game-card {
+    height: 100vh;
+    font-family: 'Open Sans', monospace;
+}
+
+.btn {
+    background: red ;
+}
+
+.btn-success {
+    background: royalblue;
+}
+
+.btn-link {
+    background: rgb(4, 61, 29);
+    color: seashell;
+}
+
+.card-body {
+    background-color: rgb(228, 235, 130);
+}
+
+.card-header, .card-footer {
+    background: tan;
+}
